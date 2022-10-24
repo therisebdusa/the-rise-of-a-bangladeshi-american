@@ -1,5 +1,5 @@
 # The Rise Of A Bangladeshi American
-### Back up of of "The Rise"
+### Back up of "The Rise"
 
 "The Rise" series is my autobiography. A better place to read this series is on [Medium](https://therisebdusa.medium.com/).
 
