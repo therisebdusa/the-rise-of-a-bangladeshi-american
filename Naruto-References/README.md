@@ -2,15 +2,15 @@
 For Naruto fans, I made a reference in each part to a character that is relatable to that part in the series and provides much added context. The images are links to the location they were posted, and therefore if an image is no longer displayed, it's likely because it was removed for copyright. If you liked the art, do checkout the artist by viewing this MD file in raw format and clicking the url to the associate image.
 <!--ts-->
 * [Naruto References per Part](#naruto-references-per-part)
-         * [Part 0 - Jiraiya](#part-0---jiraiya)
-         * [Part 1 - Itachi](#part-1---itachi)
-         * [Part 2 - Neji](#part-2---neji)
-         * [Part 3 - Gaara](#part-3---gaara)
-         * [Part 4 - Obito](#part-4---obito)
-         * [Part 5 - Naruto and Sasuke](#part-5---naruto-and-sasuke)
-         * [Part 6 - Itachi](#part-6---itachi)
-         * [Part 7 - Sasuke and Naruto](#part-7---sasuke-and-naruto)
-         * [Part 8 -  Nagato and Naruto](#part-8----nagato-and-naruto)
+  * [Part 0 - Jiraiya](#part-0---jiraiya)
+  * [Part 1 - Itachi](#part-1---itachi)
+  * [Part 2 - Neji](#part-2---neji)
+  * [Part 3 - Gaara](#part-3---gaara)
+  * [Part 4 - Obito](#part-4---obito)
+  * [Part 5 - Naruto and Sasuke](#part-5---naruto-and-sasuke)
+  * [Part 6 - Itachi](#part-6---itachi)
+  * [Part 7 - Sasuke and Naruto](#part-7---sasuke-and-naruto)
+  * [Part 8 -  Nagato and Naruto](#part-8----nagato-and-naruto)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 <!-- Added by: shohid, at: Mon Oct 24 12:38:28 PM EDT 2022 -->
