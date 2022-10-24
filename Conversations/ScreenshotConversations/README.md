@@ -1,7 +1,7 @@
-# Screenshot of a Highlighted Conversation per Part
+# Screenshots of a Highlighted Conversation per Part
 For those who want context about this series as it was unfolding, I highlighted a few comments I recieved for each part. Alternatively, take a look at `TextConversations` to read `.txt` versions of these conversations.
 <!--ts-->
-* [Screenshot of a Highlighted Conversation per Part](#screenshot-of-a-highlighted-conversation-per-part)
+* [Screenshots of a Highlighted Conversation per Part](#screenshot-of-a-highlighted-conversation-per-part)
    * [Part 1 Secrecy](#part-1-secrecy)
    * [Part 2 Punching my mom](#part-2-punching-my-mom)
    * [Part 3 Matriarchy &amp; Estrangment](#part-3-matriarchy--estrangment)
