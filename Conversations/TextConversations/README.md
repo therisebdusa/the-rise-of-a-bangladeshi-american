@@ -1,0 +1,1 @@
+For those who want context about this series as it was unfolding, I highlighted a few comments I recieved for each part as a `.txt` file. Alternatively, take a look at `ScreenshotConversations` to view images of these conversations.
