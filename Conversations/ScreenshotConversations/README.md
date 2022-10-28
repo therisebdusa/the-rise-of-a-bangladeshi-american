@@ -39,7 +39,9 @@ For those who want context about this series as it was unfolding, I highlighted 
 ![5-2](./5-entitlement/5-2.png)
 ---
 ## Part 6 Judgement
-![6](./6-judgement/6-1.png)
+![6-1](./6-judgement/6-1.png)
+![6-2](./6-judgement/6-2.png)
+![6-3](./6-judgement/6-3.png)
 ---
 ## Part 7 Freedom
 ![7-1](./7-freedom/7-1-freedom.png)
