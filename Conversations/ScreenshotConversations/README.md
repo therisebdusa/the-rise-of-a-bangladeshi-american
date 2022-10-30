@@ -1,5 +1,7 @@
 # Screenshots of a Highlighted Conversation per Part
 For those who want context about this series as it was unfolding, I highlighted a few comments I recieved for each part. Alternatively, take a look at `TextConversations` to read `.txt` versions of these conversations.
+
+Note: Each comment I recieved did not necessarily come for that Part. Most of these comments were written/recieved in the very beginning of the autobiography launch. But I wanted to include a comment per post to give some added context.
 <!--ts-->
 * [Screenshots of a Highlighted Conversation per Part](#screenshot-of-a-highlighted-conversation-per-part)
    * [Part 1 Secrecy](#part-1-secrecy)
