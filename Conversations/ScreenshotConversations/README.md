@@ -38,7 +38,7 @@ Note: Each comment I recieved did not necessarily come for that Part. Most of th
 ---
 ## Part 5 Entitlement
 ![5-1](./5-entitlement/5-1.png)
-![5-2](./5-entitlement/5-2.png)
+![5-2](./5-entitlement/5-2-1.png)
 ---
 ## Part 6 Judgement
 ![6-1](./6-judgement/6-1.png)
@@ -50,6 +50,6 @@ Note: Each comment I recieved did not necessarily come for that Part. Most of th
 ![7-2](./7-freedom/7-2-freedom.png)
 ---
 ## Part 8 The boy that lived
-![8-1](./8-boy-that-lived/8-1-boy-that-lived.jpg)
+![8-1](./8-boy-that-lived/8-1.png)
 ![8-2](./8-boy-that-lived/8-2-boy-that-lived.jpg)
 ![8-3](./8-boy-that-lived/8-3-boy-that-lived.jpg)
